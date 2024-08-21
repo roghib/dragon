@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int age = 30;
+	int age = 99;
 	if(age < 100 ) {
 		printf("Hello World");
 	}else {
